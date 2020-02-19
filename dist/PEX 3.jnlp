@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="PEX 3.jnlp">
+    <information>
+        <title>PEX 3</title>
+        <vendor>Emma</vendor>
+        <description>null</description>
+        <offline-allowed/>
+    </information>
+    <update check="always"/>
+    <resources>
+        <j2se version="9.0.1+" href="http://java.sun.com/products/autodl/j2se"/>
+    </resources>
+    <jfx:javafx-desc width="800" height="600" main-class="TwentyFourty8.PEX3" name="PEX3"/>
+</jnlp>
+
